@@ -1,4 +1,4 @@
-# SentryOne Conditions
+# Sabin.IO Deployment Condition
 
 - In SentryOne open Advisory Conditions list from Navigator.
 - Right click any current Condition and click Import, Select __[SabinIO Deployment.condition](SabinIO%20Deployment.condition)__ to import.
